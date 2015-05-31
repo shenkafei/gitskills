@@ -1,1 +1,2 @@
-Git branch is quick and easly
+Git branch is quick and easy
+Git is version control system 
