@@ -1,1 +1,1 @@
-Git branch is quick
+Git branch is quick and easy
